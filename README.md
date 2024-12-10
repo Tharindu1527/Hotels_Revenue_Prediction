@@ -1,3 +1,5 @@
+# Resturent_Revenue_Predicting Model
+
 This project involves developing a predictive model to estimate restaurant revenue using machine learning techniques. We utilized the Restaurant Revenue Prediction dataset from Kaggle, which contains 17 features related to restaurant characteristics and operations.
 
 Key Highlights:
