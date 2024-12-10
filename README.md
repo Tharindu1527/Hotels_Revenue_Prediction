@@ -2,9 +2,14 @@
 
 This project involves developing a predictive model to estimate restaurant revenue using machine learning techniques. We utilized the Restaurant Revenue Prediction dataset from Kaggle, which contains 17 features related to restaurant characteristics and operations.
 
-Key Highlights:
+# Team Members:
+
+Bandara KMTON (EG/2021/4432) <br>
+Bandara LRTD (EG/2021/4433)
 
 Dataset Link:https://www.kaggle.com/datasets/anthonytherrien/restaurant-revenue-prediction-dataset
+
+Key Highlights:
 
 # 1. Dataset Preprocessing/EDA:
 
@@ -24,10 +29,5 @@ Achievements:
 Achieved 99% accuracy for both training and testing datasets, showcasing the robustness of the models.
 
 Technologies Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-
-# Team Members:
-
-Bandara KMTON (EG/2021/4432)
-Bandara LRTD (EG/2021/4433)
 
 This project highlights our expertise in feature engineering, predictive modeling, and data visualization.
