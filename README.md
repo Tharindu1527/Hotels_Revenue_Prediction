@@ -1,4 +1,4 @@
-# 🌟 Restaurant Revenue Prediction Using Machine Learning 🌟
+# Restaurant Revenue Prediction Using Machine Learning 
 
 ## 📌 Project Description  
 This project aims to predict the revenue of restaurants based on key features like location, cuisine type, ratings, reviews, and more. Using machine learning techniques, we developed and evaluated models that achieve high accuracy in predictions.
